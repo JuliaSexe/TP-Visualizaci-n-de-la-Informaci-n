@@ -1,5 +1,6 @@
 # TP-Visualizaci-n-de-la-Informaci-n
-Trabajo Práctico: Visualización de Datos Interactiva - Visualización de la Información - ITBA (2025)
+Trabajo Práctico: Visualización de Datos Interactiva - Visualización de la Información - ITBA (2025).
+
 Tema seleccionado: ruido nocturo en CABA: población, espacios verdes, tipología y condiciones de viviendas.
 
 ## 📌 Dashboard en Power BI
